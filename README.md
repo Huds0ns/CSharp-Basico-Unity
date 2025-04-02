@@ -130,5 +130,4 @@ Para comentar várias linhas ao mesmo tempo:
 **Mac:** `Cmd + K + C`
 
 ---
-Este README fornece um resumo direto e eficaz dos conceitos básicos de C# para Unity, facilitando a compreensão para recrutadores e desenvolvedores iniciantes.
 
