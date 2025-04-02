@@ -59,19 +59,6 @@ else
 }
 ```
 
-### Entrada do usuário (teclas)
-```csharp
-if (Input.GetKey(KeyCode.Space)) // Enquanto a tecla estiver pressionada
-{
-}
-if (Input.GetKeyDown(KeyCode.Space)) // Quando a tecla for pressionada uma vez
-{
-}
-if (Input.GetKeyUp(KeyCode.Space)) // Quando a tecla for solta
-{
-}
-```
-
 ### `switch`
 Alternativa ao `if` quando há múltiplas condições.
 ```csharp
@@ -86,6 +73,19 @@ switch (variavel)
     default:
         // Caso padrão
         break;
+}
+```
+
+### Entrada do usuário (teclas)
+```csharp
+if (Input.GetKey(KeyCode.Space)) // Enquanto a tecla estiver pressionada
+{
+}
+if (Input.GetKeyDown(KeyCode.Space)) // Quando a tecla for pressionada uma vez
+{
+}
+if (Input.GetKeyUp(KeyCode.Space)) // Quando a tecla for solta
+{
 }
 ```
 
