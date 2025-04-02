@@ -1,6 +1,5 @@
 # Conceitos Básicos de Programação C# para Unity
 
-Este documento apresenta um resumo dos conceitos fundamentais de C# utilizados no desenvolvimento com Unity.
 
 ## Variáveis
 Espaço na memória que armazena um valor mutável.
