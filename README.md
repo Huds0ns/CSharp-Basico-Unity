@@ -47,7 +47,7 @@ public class NomeClasse : MonoBehaviour
 
 ## Condicionais
 ### `if` e `else`
-Executa um bloco de código baseado em uma condição.
+O if executa um bloco de código caso a condição especificada seja verdadeira. Caso contrário, o else será executado.
 ```csharp
 if (condicao)
 {
