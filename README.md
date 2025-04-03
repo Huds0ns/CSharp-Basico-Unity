@@ -97,7 +97,7 @@ public int[] arrayInt = {1, 2, 3, 4, 5};
 ```
 
 ### List
-Semelhante ao array, mas mais flexível.
+Semelhante ao array, porém mais flexível.
 ```csharp
 public List<int> listaInt = new List<int>();
 listaInt.Add(10);   // Adiciona elemento
