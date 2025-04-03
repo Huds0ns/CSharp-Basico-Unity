@@ -90,13 +90,13 @@ if (Input.GetKeyUp(KeyCode.Space)) // Quando a tecla for solta
 ```
 
 ## Estruturas de Dados
-### Arrays
+### Array
 Armazena múltiplos valores do mesmo tipo.
 ```csharp
 public int[] arrayInt = {1, 2, 3, 4, 5};
 ```
 
-### Listas
+### List
 Semelhante ao array, mas mais flexível.
 ```csharp
 public List<int> listaInt = new List<int>();
